@@ -7,6 +7,6 @@
   "supvwe_version": "1.0.0",
   "funjre_tags": ["nks11", "op", "uoi"],
   "datplc_sync": 1,
-  "uimdfk_mode": "hcio",
+  "uimdfk_mode": "hco",
   "cacxds_strategy": ""
 }
