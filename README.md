@@ -1,12 +1,5 @@
 {
-  "modxbr_tool": "default",
-  "layqwe_style": "default",
-  "cardpwe_limit": 12,
-  "refynk_interval": 25,
-  "entmjk_title": "https://www.baidu.com",
-  "supvwe_version": "1.0.0",
-  "funjre_tags": ["nks11", "op", "uoi"],
-  "datplc_sync": 1,
-  "uimdfk_mode": "hcio",
-  "cacxds_strategy": ""
+  "v": "1",
+  "ts": 1760000000,
+  "payload_b64": "eyJlbmdpbmUiOiJkZWZhdWx0IiwidGhlbWUiOiJkZWZhdWx0IiwibGltaXQiOjEyLCJpbnRlcnZhbCI6MjUsImVudHJ5IjoiaHR0cHM6Ly93d3cuYmFpZHUuY29tIiwicmV2IjoiMS4wLjAiLCJsYWJlbHMiOlsibmtzMTEiLCJvcCIsInVvaSJdLCJzeW5jIjoxLCJtb2RlIjoiaGNpbyIsInBvbGljeSI6IiJ9"
 }
